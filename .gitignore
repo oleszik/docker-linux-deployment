@@ -1,0 +1,8 @@
+.env
+backups/
+*.dump
+*.sql
+*.log
+__pycache__/
+.pytest_cache/
+.venv/
